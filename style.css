@@ -1,0 +1,163 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    width: 200px;
+    
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+ul li a:hover{
+        color: rgb(12, 156, 19);
+}
+    li a {
+        color: black;
+        text-decoration: none;
+    }
+    main {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .img1{
+         width: 50px;
+        height: 50px;
+    }
+    .title{
+        color: rgb(17, 172, 125);
+    }
+    .section1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+    }
+    .s1div1{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        width: 70%;
+        
+    }
+    .s1div2 .p1{
+        font-size: 20px;
+        color: grey;
+    }
+    .s1div3 .p2{
+        font-size: 20px;
+        color: grey;
+    }
+   .section2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 70%;
+    gap: 20px;
+   }
+    
+   .s2div1{
+    width: 50%;
+    height: 10%;
+    background-color:rgb(90, 248, 182);
+    color: azure;
+    text-align: center;
+    padding: 70px;
+    font-size: x-large;
+    border-radius: 20px;
+   }
+   .s2div2{
+    width: 50%; 
+    height: 10%;
+    background-color:rgb(58, 150, 180);
+    color: azure;
+    text-align: center;
+    padding: 70px;
+    font-size: x-large;
+    position: relative;
+    border-radius: 20px;
+   }
+   .s2div3{
+    width: 50%;
+    height: 10%;
+    background-color:rgb(2, 8, 10);
+    color: azure;
+    text-align: center;
+    padding: 70px;
+    font-size: x-large;
+    position: relative;
+    border-radius: 20px;
+   }
+   .s2div1 .select1{
+    width: 100%;
+  background-color: transparent;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  }
+  .section3{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(192, 237, 240);
+   height: 150%;
+   
+}
+.s3div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+}
+ .s3h1  {
+    color: green;
+ }
+ .s3div2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+   
+ }
+ .s3div3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+   gap: 20px;
+
+ }
+.d2div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+   background-color: azure;
+   width: 35%;
+   padding-left: 10px;
+ word-spacing: 10px;
+
+}
+
+.d2div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+   background-color: azure;
+   width: 50%;
+   padding-left: 10px;
+
+}
+
+
+   
+   
